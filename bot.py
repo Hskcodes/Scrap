@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Bot tokens for multiple bots
 bot_tokens = [
-    'YOUR_BOT_1_TOKEN',  # First bot token (for scraping)
+    '7175839469:AAGZAd1HHRr77yOJK8tdExxjkziKiCA2SKM',  # First bot token (for scraping)
     'YOUR_BOT_2_TOKEN'   # Second bot token (for uploading)
 ]
 
