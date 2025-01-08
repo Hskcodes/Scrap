@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 # Bot tokens for multiple bots
 bot_tokens = [
     '7175839469:AAGZAd1HHRr77yOJK8tdExxjkziKiCA2SKM',  # First bot token (for scraping)
-    'YOUR_BOT_2_TOKEN'   # Second bot token (for uploading)
+    '7601246987:AAGVVNJB210Xt3luAk24MEUfNxdX_FhkIa4'   # Second bot token (for uploading)
 ]
 
 # Local directory to save media
